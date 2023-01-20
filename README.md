@@ -16,3 +16,9 @@
 * browser error message
 * break point
 * react DevTools
+
+## 08-practice-project
+* reusable UI component
+* user input state
+* user input validation
+* modal

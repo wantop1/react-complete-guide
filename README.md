@@ -10,3 +10,9 @@
 * dynamic inline class
 * styled-components
 * css module
+
+## 07-debugging
+* react error message
+* browser error message
+* break point
+* react DevTools

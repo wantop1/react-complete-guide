@@ -28,3 +28,9 @@
 * Portals
 * Refs
 * Controlled Component and Uncontrolled Component
+
+## 10-side-effects-reducers-context-api
+* Side Effects
+* useEffect()
+* dependency array
+* Cleanup

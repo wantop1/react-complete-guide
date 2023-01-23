@@ -34,3 +34,5 @@
 * useEffect()
 * dependency array
 * Cleanup
+* object destructuring with useEffect
+* useReducer()

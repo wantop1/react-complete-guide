@@ -36,3 +36,6 @@
 * Cleanup
 * object destructuring with useEffect
 * useReducer()
+* context API
+* useContext()
+* forwardRefs

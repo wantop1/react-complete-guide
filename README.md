@@ -4,7 +4,7 @@
 - dummy food list [x]
 - add food button [x]
 - amount input [x]
-- cart modal to order
+- cart modal to order[x]
 - change quantity button
 - close, order button [x]
 

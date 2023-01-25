@@ -6,5 +6,5 @@
 - amount input [x]
 - cart modal to order
 - change quantity button
-- close, order button
+- close, order button [x]
 

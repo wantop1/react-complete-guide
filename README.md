@@ -5,6 +5,7 @@
 - add food button [x]
 - amount input [x]
 - cart modal to order[x]
+- cart Context[x]
 - change quantity button
 - close, order button [x]
 

@@ -39,3 +39,14 @@
 * context API
 * useContext()
 * forwardRefs
+
+## 11-practice-food-order-app
+ * header and cart button
+ * dummy food list
+ * add food button
+ * amount input
+ * cart modal to order
+ * cart Context
+ * change quantity button
+ * close, order button
+ * cart animation

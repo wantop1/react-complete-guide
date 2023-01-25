@@ -6,6 +6,7 @@
 - amount input [x]
 - cart modal to order[x]
 - cart Context[x]
-- change quantity button
+- change quantity button [x]
 - close, order button [x]
+- cart animation [x]
 

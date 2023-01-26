@@ -50,3 +50,10 @@
  * change quantity button
  * close, order button
  * cart animation
+ 
+ ## 13-class-based-cmp
+ * class based component
+ * component lifecycle (componentDidMount, componentDidUpdate, componentWillUnmount)
+ * class based component and context
+ * error boundary (componentDidCatch)
+

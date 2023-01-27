@@ -57,3 +57,10 @@
  * class based component and context
  * error boundary (componentDidCatch)
 
+ ## 14-sending-http-requests
+ * http GET and POST
+ * fetch / then
+ * async / await
+ * loading state
+ * http error handling
+ * http request in useEffect()

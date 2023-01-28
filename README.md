@@ -51,6 +51,11 @@
  * close, order button
  * cart animation
  
+ ## 12-react-optimization-techniques
+ * React.memo()
+ * useCallback()
+ * useMemo()
+
  ## 13-class-based-cmp
  * class based component
  * component lifecycle (componentDidMount, componentDidUpdate, componentWillUnmount)

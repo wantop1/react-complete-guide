@@ -85,7 +85,13 @@
  * order (http request to firebase)
  * order state management(submitting, didSubmit)
  
-  ## 18-diving-into-redux
+ ## 18-diving-into-redux
  * redux
  * react-redux
  * redux toolkit
+ 
+ ## 19-advanced-redux
+ * asynchronous operation in redux
+ * Thunk
+ * http request in redux
+ * redux DevTools

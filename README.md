@@ -116,3 +116,6 @@
  
  ## 25-replacing-redux
  * custom hook store
+
+## 27-react-typescript
+* basic typescript (type, type inference, union, type alias, generics)

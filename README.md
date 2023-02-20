@@ -119,3 +119,4 @@
 
 ## 27-react-typescript
 * basic typescript (type, type inference, union, type alias, generics)
+* typescript in react

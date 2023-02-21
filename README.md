@@ -108,8 +108,16 @@
  * access token
  * expiration time
  * page protection
- 
-  ## 24-animations
+
+## 23-nextjs-introduction
+* File-based Routing
+* getStaticProps and getStaticPaths
+* getServerSideProps
+* MongoDB with Nextjs
+* Next Head
+* Deploying to Vercel
+
+## 24-animations
  * css transition
  * css animation
  * react transition group
